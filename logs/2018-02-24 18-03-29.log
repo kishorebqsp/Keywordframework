@@ -1,0 +1,8 @@
+2018-02-24 18:03:29,127 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-02-24 18:03:35,881 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-02-24 18:03:35,989 - com.qspiders.KeyDriver - INFO - _________________________________________________________
+2018-02-24 18:03:35,989 - com.qspiders.KeyDriver - WARN - Skipping scenario:Scenario1
+2018-02-24 18:03:36,097 - com.qspiders.KeyDriver - INFO - _________________________________________________________
+2018-02-24 18:03:36,097 - com.qspiders.KeyDriver - WARN - Skipping scenario:Scenario2
+2018-02-24 18:03:36,720 - com.qspiders.KeyDriver - INFO - Total Pass:0 ; Total Fail:0 ; Total Skip:2
+2018-02-24 18:03:36,720 - com.qspiders.KeyDriver - INFO - **********************Ending Frame Work**********************
